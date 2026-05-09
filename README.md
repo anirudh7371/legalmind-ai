@@ -83,25 +83,6 @@ npm install
 npm run dev
 # Frontend will run on http://localhost:3000
 
-
-## 🤝 Contributing
-
-Contributions are welcome\! Please fork the repository and open a pull request.
-
-1.  Fork the Project
-2.  Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3.  Commit your Changes (git commit -m 'Add some AmazingFeature')
-4.  Push to the Branch (git push origin feature/AmazingFeature)
-5.  Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## 👥 Authors
-
-  * *Areen* - Initial Work - [areen-09](https://www.google.com/search?q=https://github.com/areen-09)
-
 ## 🙏 Acknowledgments
 
   * Google Cloud for Gemini and Firebase
